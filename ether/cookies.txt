@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.medium.com	TRUE	/	FALSE	1999999999	__cfruid	18f1b533431bb7d4e5b183a1c6195e2965a7c260-1624304193
+cdn-static-1.medium.com	TRUE	/	FALSE	1999999999	SameSite	None
+
